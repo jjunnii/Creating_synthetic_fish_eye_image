@@ -4,10 +4,11 @@ We share the code for creating a Synthetic fish eye image. The above code is a p
 <img width="80%" src="https://user-images.githubusercontent.com/76198695/163321657-c32c59c4-9073-464f-b914-9498294071ff.png">  
 
 # Synthetic fish image dataset
-<img width="90%" src="https://user-images.githubusercontent.com/76198695/163324406-d233e803-d027-47b3-a512-3237fd5ef1af.png"/>
-I used the carla simulator to create more than 100,000 fishye images in various environments. If you need this datasets, please contact me by email.  
+<img width="90%" src="https://user-images.githubusercontent.com/76198695/163324406-d233e803-d027-47b3-a512-3237fd5ef1af.png"/>  
 
-My email : <cjswpwjrdls@gmail.com>  
+**I used the carla simulator to create more than 100,000 fishye images in various environments. If you need this datasets, please contact me by email.**  
+
+**My email : <cjswpwjrdls@gmail.com>**  
 
 # Reference  
 
